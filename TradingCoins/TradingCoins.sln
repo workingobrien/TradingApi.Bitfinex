@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingCoins", "TradingCoins\TradingCoins.csproj", "{99B93AE3-1414-4677-B62C-1F5103B52B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cob.TradingApps.BtcData", "Cob.TradingApps.BtcData\Cob.TradingApps.BtcData.csproj", "{63F10178-9E10-4495-B376-08DF3A763E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingApi.Bitfinex", "TradingApi.Bitfinex\TradingApi.Bitfinex.csproj", "{1C6AFC5B-4C6D-4F88-97FF-5845D45E94C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingApi.ModelObjects", "TradingApi.ModelObjects\TradingApi.ModelObjects.csproj", "{F0F159A5-C5D6-4CBF-B061-7943F8F7BC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B93AE3-1414-4677-B62C-1F5103B52B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B93AE3-1414-4677-B62C-1F5103B52B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B93AE3-1414-4677-B62C-1F5103B52B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B93AE3-1414-4677-B62C-1F5103B52B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F10178-9E10-4495-B376-08DF3A763E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F10178-9E10-4495-B376-08DF3A763E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F10178-9E10-4495-B376-08DF3A763E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F10178-9E10-4495-B376-08DF3A763E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6AFC5B-4C6D-4F88-97FF-5845D45E94C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6AFC5B-4C6D-4F88-97FF-5845D45E94C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6AFC5B-4C6D-4F88-97FF-5845D45E94C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6AFC5B-4C6D-4F88-97FF-5845D45E94C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F159A5-C5D6-4CBF-B061-7943F8F7BC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F159A5-C5D6-4CBF-B061-7943F8F7BC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F159A5-C5D6-4CBF-B061-7943F8F7BC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F159A5-C5D6-4CBF-B061-7943F8F7BC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

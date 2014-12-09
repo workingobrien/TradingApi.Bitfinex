@@ -1,0 +1,13 @@
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\TradingApi.Bitfinex.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\TradingApi.Bitfinex.pdb
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\log4net.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\Newtonsoft.Json.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\RestSharp.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\TradingApi.ModelObjects.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\TradingApi.ModelObjects.pdb
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\log4net.xml
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\Newtonsoft.Json.xml
+c:\dev\TradingCoins\TradingApi.Bitfinex\bin\Debug\RestSharp.xml
+c:\dev\TradingCoins\TradingApi.Bitfinex\obj\Debug\TradingApi.Bitfinex.csprojResolveAssemblyReference.cache
+c:\dev\TradingCoins\TradingApi.Bitfinex\obj\Debug\TradingApi.Bitfinex.dll
+c:\dev\TradingCoins\TradingApi.Bitfinex\obj\Debug\TradingApi.Bitfinex.pdb
